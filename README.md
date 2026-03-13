@@ -1,6 +1,4 @@
-# About me
-
-**franktee89/franktee89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
 - 🔭 I’m currently working on some small projects.
 - 🌱 I’m currently learning Power Automate and hopefully can learn more through Github.
